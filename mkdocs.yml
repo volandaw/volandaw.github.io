@@ -1,0 +1,20 @@
+site_name: Etyka i Biznes, portfolio
+site_author: MentorAndJ
+site_description: >-
+    Portfolio moich projektów z DataScience i AI
+theme:
+  name: material
+
+nav:
+  - Strona główna: index.md
+  - Obecny projekt: Sowa/index.md
+
+  - Poprzednie projekty:
+    - "DNA Historii": DNA historii/index.md
+    - "Gejzer szczęścia": Gejzer szczęścia/index.md
+    - "Irysy": Irysy/index.md
+  - O autorze: o-mnie.md
+
+markdown_extensions:
+  - attr_list
+  - admonition
