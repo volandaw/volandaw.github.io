@@ -1,19 +1,24 @@
-site_name: Etyka i Biznes, portfolio
+site_name: Andrzej Wolski Handel i Doradztwo
 site_author: MentorAndJ
 site_description: >-
-    Portfolio moich projektów z DataScience i AI
+    Doradztwo, mentoring i analizy — z doświadczenia, nie z podręcznika
 theme:
   name: material
 
 nav:
   - Strona główna: index.md
+  - Doradztwo i Mentoring:
+      - "Credo": doradztwo/credo.md
+      - "Do Nieobojętnych": doradztwo/manifest.md
   - Obecny projekt: Sowa/index.md
-
   - Poprzednie projekty:
-    - "DNA Historii": DNA historii/index.md
-    - "Gejzer szczęścia": Gejzer szczęścia/index.md
-    - "Irysy": Irysy/index.md
+      - "DNA Historii": DNA historii/index.md
+      - "Gejzer szczęścia": Gejzer szczęścia/index.md
+      - "Irysy": Irysy/index.md
   - O autorze: o-mnie.md
+  - Handel:
+      - "Promienniki MO-EL": handel/promienniki.md
+  - "Promienniki IR — Padel": handel/OSDP.md
 
 markdown_extensions:
   - attr_list

@@ -16,3 +16,12 @@ Wiem, że wszystkich zaprosić do tego grona się nie da, ale trzeba się otworz
 
 !!! info "Rzeczpospolita Szlachetna"
     To kraj, w którym ludzie mają klasę nie od święta, tylko w rozmowie, sporze, pracy i w codziennym zachowaniu. **Dobro zawsze można odzyskać, o ile nie utraciło się prawdy.**
+
+## 📜 Certyfikaty i szkolenia
+
+### Pracuj w AI: Zostań Data Scientist od Zera
+*gotoit.pl | kwiecień 2026*
+
+[![Certyfikat](assets/certyfikat_AI_DataScientist.png)](assets/certyfikat_AI_DataScientist.pdf)
+
+[⬇️ Pobierz certyfikat (PDF)](assets/certyfikat_AI_DataScientist.pdf)
