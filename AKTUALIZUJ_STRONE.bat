@@ -1,21 +1,24 @@
 @echo off
 cd /d "%~dp0"
 
+set PYEXE=%USERPROFILE%\AppData\Local\miniconda3\envs\0d_zera_do_ai\python.exe
+
 echo ===============================================
 echo   Aktualizacja i publikacja strony portfolio
 echo ===============================================
 echo.
 
-call conda activate 0d_zera_do_ai
-if errorlevel 1 (
-    echo BLAD: nie udalo sie aktywowac srodowiska conda "0d_zera_do_ai".
+if not exist "%PYEXE%" (
+    echo BLAD: nie znaleziono Pythona pod sciezka:
+    echo %PYEXE%
     pause
     exit /b 1
 )
 
+echo Uzywam Pythona: %PYEXE%
 echo.
 echo --- Publikuje strone na gh-pages (widoczna na volandaw.github.io) ---
-python -m mkdocs gh-deploy --force
+"%PYEXE%" -m mkdocs gh-deploy --force
 if errorlevel 1 (
     echo BLAD: publikacja mkdocs gh-deploy nie powiodla sie.
     pause
