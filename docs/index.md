@@ -8,7 +8,9 @@ Wieloletni koordynator prac zespołów i projektów w sektorze bankowym, dziś d
 
 Przez wiele lat koordynowałem prace zespołów w sektorze bankowym przy projektach o znaczeniu krajowym: wdrożeniu ogólnopolskiego standardu numeru rachunku bankowego, budowie Systemu Standardów Edukacji Bankowej, powołaniu Instytucji Arbitra Bankowego oraz Rady Wydawców Kart Bankowych. Przewodziłem lub koordynowałem pracę kilkudziesięciu rad i komitetów Związku Banków Polskich.
 
-Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. W 2023 zdobyłem dyplom Szkoły Trenerów Uniwersytetu SWPS oraz certyfikat Data Scientist.
+Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. Uzyskałem certyfikat Data Scientist a w 2023 otrzymałem dyplom Szkoły Trenerów Uniwersytetu SWPS.
+
+![Dyplom Trenera Wewnętrznego, Szkoła Trenerów Uniwersytetu SWPS](assets/dyplom-swps.jpg){: width="500" }
 
 Obserwuję, jak polska gospodarka ostrożnie wdraża AI i automatyzację w świecie, który coraz mniej przypomina uporządkowany plan, a coraz bardziej — spienioną wodę górskiego toru kajakowego. W tej rzeczywistości najcenniejsza okazuje się nie szybkość przyswajania nowości, tylko umiejętność odczytywania sensu z chaosu sygnałów i pamięć, która rozpoznaje, że "nowy" trend bywa powtórką sprzed lat, tylko w innym opakowaniu. To jest przestrzeń, w której chcę pracować z zespołami — jako mentor, uczestnik zespołu, czasem nauczyciel.
 
