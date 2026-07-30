@@ -33,6 +33,7 @@ git push origin main
 
 echo.
 echo ===============================================
-echo   Gotowe! Strona: https://volandaw.github.io/
+echo   Gotowe! Otwieram strone w przegladarce...
 echo ===============================================
-pause
+start "" "https://volandaw.github.io/?v=%RANDOM%"
+timeout /t 3 >nul
