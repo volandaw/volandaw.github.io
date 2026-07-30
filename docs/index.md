@@ -1,20 +1,18 @@
-# Andrzej Wolski
+# Andrzej Wolski — Handel i Doradztwo
 
-Jestem wieloletnim pracownikiem sektora finansowego. Nadal jestem
-analitykiem, doradcą i przedsiębiorcą. Obserwuję rzeczywistość,
-wyciągam wnioski i staram się — na miarę skromnych możliwości —
-coś poprawiać. W obu obszarach swojej działalności wykorzystuję AI
-jako narzędzie myślenia, nie zastępstwo myślenia.
+Wieloletni koordynator zespołów i projektów w sektorze bankowym, dziś doradca i mentor. Łączę doświadczenie zarządcze z bieżącym, praktycznym rozeznaniem w AI — nie z pozycji teorii, tylko codziennego testowania narzędzi. Pomagam zespołom wdrażać nowe technologie świadomie, bez utraty głowy i bez efektów ubocznych, których nikt nie przewidział.
 
 ---
 
 ## 🔍 Doradztwo i Mentoring
 
-Wynikiem analizy przemian społecznych i gospodarczych są artykuły
-i raporty — często poza mainstreamem. Mentoring dla tych, którym
-zależy na nowym pokoleniu i na naszym kraju — Rzeczypospolitej
-Szlachetnej.
+Przez wiele lat koordynowałem prace zespołów w sektorze bankowym przy projektach o znaczeniu krajowym: wdrożeniu ogólnopolskiego standardu numeru rachunku bankowego, budowie Systemu Standardów Edukacji Bankowej, powołaniu Instytucji Arbitra Bankowego oraz Rady Wydawców Kart Bankowych. Przewodziłem lub koordynowałem pracę kilkudziesięciu rad i komitetów Związku Banków Polskich.
 
+Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. W 2023 zdobyłem dyplom Szkoły Trenerów Uniwersytetu SWPS oraz certyfikat Data Scientist.
+
+Doradzałem również w programie przywództwa dla dyrektorów szkół podstawowych i średnich — za szczególnie udany uważam projekt zrealizowany z dyrektorem jednej z warszawskich szkół.
+
+Dziś obserwuję, jak polska gospodarka wdraża AI i automatyzację w świecie, który coraz mniej przypomina uporządkowany plan, a coraz bardziej — spienioną wodę górskiego toru kajakowego. W tej rzeczywistości najcenniejsza okazuje się nie szybkość przyswajania nowości, tylko umiejętność odczytywania sensu z chaosu sygnałów i pamięć, która rozpoznaje, że "nowy" trend bywa powtórką sprzed lat w innym opakowaniu. To jest przestrzeń, w której chcę pracować z zespołami — jako mentor, uczestnik zespołu, czasem nauczyciel.
 ---
 
 ## 🛒 Handel - poligon mentoringu w praktyce
