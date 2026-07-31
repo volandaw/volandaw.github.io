@@ -1,6 +1,6 @@
 # O autorze
 
-Przeżyłem jeden z najszczęśliwszych okresów historii naszej ojczyzny – od lat 50. ubiegłego wieku do lat 20. wieku bieżącego. Mimo różnych ocen tego okresu, był to czas bez wojny, czas totalnej edukacji społeczeństwa i czas bezprecedensowego rozwoju gospodarczego oraz dobrobytu Polski.
+Przeżyłem jeden z najbardziej pomyślnych okresów historii naszej ojczyzny – od lat 50. ubiegłego wieku do lat 20. wieku bieżącego. Mimo różnych ocen tego okresu, był to czas bez wojny, czas totalnej edukacji społeczeństwa i czas bezprecedensowego rozwoju gospodarczego oraz dobrobytu Polski.
 
 Wraz z obywatelami mojego Kraju wkraczam w nowy etap historii. Nie mamy jeszcze na ten etap dobrej nazwy. Wiem, że nowe czasy mogą być dla nas nadal łaskawe, ale równie dobrze mogą być okrutne i bezwzględne.
 
