@@ -31,6 +31,6 @@ Wiem, że wszystkich zaprosić do tego grona się nie da, ale trzeba się otworz
 ### Pracuj w AI: Zostań Data Scientist od Zera
 *gotoit.pl | kwiecień 2026*
 
-[![Certyfikat](assets/certyfikat_AI_DataScientist.png){: width="500" }](assets/certyfikat_AI_DataScientist.pdf)
+[![Certyfikat](assets/certyfikat-data-scientist.png){: width="500" }](assets/certyfikat_AI_DataScientist.pdf)
 
 [⬇️ Pobierz certyfikat (PDF)](assets/certyfikat_AI_DataScientist.pdf)
