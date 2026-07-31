@@ -10,10 +10,7 @@ Przez wiele lat koordynowałem prace zespołów w sektorze bankowym przy projekt
 
 Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. Już na emeryturze uzyskałem certyfikat Data Scientist oraz dyplom Szkoły Trenerów Uniwersytetu SWPS.
 
-
-![Dyplom Trenera Wewnętrznego, Szkoła Trenerów Uniwersytetu SWPS](assets/dyplom-swps.jpg){: width="500" }
-
-![Certyfikat Data Scientist](assets/certyfikat-data-scientist.png){: width="500" }
+Więcej o zdobytych certyfikatach i dyplomach — w sekcji [O autorze](o-mnie.md).
 
 Obserwuję, jak polska gospodarka ostrożnie wdraża AI i automatyzację w świecie, który coraz mniej przypomina uporządkowany plan, a coraz bardziej — spienioną wodę górskiego toru kajakowego. W tej rzeczywistości najcenniejsza okazuje się nie szybkość przyswajania nowości, tylko umiejętność odczytywania sensu z chaosu sygnałów i pamięć, która rozpoznaje, że "nowy" trend bywa powtórką sprzed lat, tylko w innym opakowaniu. To jest przestrzeń, w której chcę pracować z zespołami — jako mentor, uczestnik zespołu, czasem nauczyciel.
 

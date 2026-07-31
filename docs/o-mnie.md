@@ -19,6 +19,11 @@ Wiem, że wszystkich zaprosić do tego grona się nie da, ale trzeba się otworz
 
 ## 📜 Certyfikaty i szkolenia
 
+### Szkoła Trenerów Uniwersytetu SWPS — Trener Wewnętrzny
+*2023*
+
+![Dyplom Trenera Wewnętrznego, Szkoła Trenerów Uniwersytetu SWPS](assets/dyplom-swps.jpg){: width="500" }
+
 ### Pracuj w AI: Zostań Data Scientist od Zera
 *gotoit.pl | kwiecień 2026*
 
