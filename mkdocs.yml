@@ -17,7 +17,7 @@ nav:
       - "Irysy": Irysy/index.md
   - Handel:
       - "Promienniki MO-EL": handel/promienniki.md
-  - "Promienniki IR — Padel": handel/OSDP.md
+      - "Promienniki IR — Padel": handel/OSDP.md
   - O autorze: o-mnie.md
 
 markdown_extensions:
