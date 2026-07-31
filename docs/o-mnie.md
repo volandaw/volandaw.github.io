@@ -29,4 +29,8 @@ Wiem, że wszystkich zaprosić do tego grona się nie da, ale trzeba się otworz
 
 [![Certyfikat](assets/certyfikat_AI_DataScientist.png)](assets/certyfikat_AI_DataScientist.pdf)
 
+### Program ME+AI — Campus AI
+
+![Certyfikat programu ME+AI, Campus AI](assets/Me-AI_CampusAI.jpg){: width="500" }
+
 [⬇️ Pobierz certyfikat (PDF)](assets/certyfikat_AI_DataScientist.pdf)
