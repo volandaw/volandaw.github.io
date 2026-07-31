@@ -8,7 +8,7 @@ Wieloletni koordynator prac zespołów i projektów w sektorze bankowym, dziś d
 
 Przez wiele lat koordynowałem prace zespołów w sektorze bankowym przy projektach o znaczeniu krajowym: wdrożeniu ogólnopolskiego standardu numeru rachunku bankowego, budowie Systemu Standardów Edukacji Bankowej, powołaniu Instytucji Arbitra Bankowego oraz Rady Wydawców Kart Bankowych. Przewodziłem lub koordynowałem pracę kilkudziesięciu rad i komitetów Związku Banków Polskich.
 
-Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. Już na emeryturze uzyskałem certyfikat Data Scientist oraz dyplom Szkoły Trenerów Uniwersytetu SWPS.
+Standardom i wspópracy w infrastrukturze poświęciłem kilka wykładów na uczelniach wyższych, jestem autorem tekstów w Gazecie Wyborczej i miesięczniku Bank oraz redaktorem książki *Bankowość polska 2012–2022*. Już na emeryturze uzyskałem certyfikat Data Scientist oraz dyplom Szkoły Trenerów Uniwersytetu SWPS.
 
 Więcej o zdobytych certyfikatach i dyplomach — w sekcji [O autorze](o-mnie.md).
 
