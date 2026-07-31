@@ -13,16 +13,15 @@ Prowadziłem wykłady na uczelniach wyższych, jestem autorem tekstów w Gazecie
 Więcej o zdobytych certyfikatach i dyplomach — w sekcji [O autorze](o-mnie.md).
 
 Obserwuję, jak polska gospodarka ostrożnie wdraża AI i automatyzację w świecie, który coraz mniej przypomina uporządkowany plan, a coraz bardziej — spienioną wodę górskiego toru kajakowego. W tej rzeczywistości najcenniejsza okazuje się nie szybkość przyswajania nowości, tylko umiejętność odczytywania sensu z chaosu sygnałów i pamięć, która rozpoznaje, że "nowy" trend bywa powtórką sprzed lat, tylko w innym opakowaniu. To jest przestrzeń, w której chcę pracować z zespołami — jako mentor, uczestnik zespołu, czasem nauczyciel.
+Występowałem w roli mentora w programie przywództwa obejmującym nauczycieli szkół podstawowych i średnich; projekt zrealizowany z dyrektorem jednej z warszawskich szkół uważam za zdecydowanie udany. Zasady mentoringu w praktyce wzbogaciły te wyniesione z całej mojej działalności zawodowej w sektorze bankowym, w tym przy budowie rozwiązań, które do dziś są standardem dla polskiego sektora bankowego.
+
+Obserwując wdrożenia AI i automatyzacji w polskiej gospodarce, widzę przestrzeń na nową formę ekspertyzy — łączącą doświadczenie zarządcze z refleksją nad praktycznym oddziaływaniem nowych rozwiązań na człowieka oraz etyką tych zmian. W ramach projektu Campus AI szukam m.in. ludzi gotowych włączać się w praktyczne działanie.
 
 ---
 
 ## 🛒 Handel - poligon mentoringu w praktyce
 
 Doradzanie w prowadzeniu sklepu [Lampynaowady.eu](https://lampynaowady.eu) i współpracy z włoskim producentem MO-EL to praktyczna szkoła — negocjacji, odpowiedzialności za wynik i rozumienia rynku — którą przenoszę do obszaru codziennych doświadczeń.
-
-Występowałem w roli mentora w programie przywództwa obejmującym nauczycieli szkół podstawowych i średnich; projekt zrealizowany z dyrektorem jednej z warszawskich szkół uważam za zdecydowanie udany. Zasady mentoringu w praktyce wzbogaciły te wyniesione z całej mojej działalności zawodowej w sektorze bankowym, w tym przy budowie rozwiązań, które do dziś są standardem dla polskiego sektora bankowego.
-
-Obserwując wdrożenia AI i automatyzacji w polskiej gospodarce, widzę przestrzeń na nową formę ekspertyzy — łączącą doświadczenie zarządcze z refleksją nad praktycznym oddziaływaniem nowych rozwiązań na człowieka oraz etyką tych zmian. W ramach projektu Campus AI szukam m.in. ludzi gotowych włączać się w praktyczne działanie.
 
 ---
 
